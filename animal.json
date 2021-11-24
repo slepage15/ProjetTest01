@@ -1,0 +1,72 @@
+[
+    {
+        "cry": "",
+        "name": "Doun",
+        "num-leg": 4,
+        "race": "Doberman",
+        "sex": "F"
+    },
+    {
+        "cry": "",
+        "name": "Tom",
+        "num-leg": 4,
+        "race": "Doberman",
+        "sex": "M"
+    },
+    {
+        "cry": "",
+        "name": "Boumboum",
+        "num-leg": 4,
+        "race": "Bouvier",
+        "sex": "M"
+    },
+    {
+        "cry": "",
+        "name": "Outch",
+        "num-leg": 4,
+        "race": "Boxer",
+        "sex": "M"
+    },
+    {
+        "cry": "",
+        "name": "Valentine",
+        "num-leg": 4,
+        "race": "",
+        "sex": "F"
+    },
+    {
+        "cry": "",
+        "name": "Elvis",
+        "num-leg": 4,
+        "race": "Goutiere",
+        "sex": "M"
+    },
+    {
+        "cry": "",
+        "name": "Priscie",
+        "num-leg": 4,
+        "race": "Goutiere",
+        "sex": "M"
+    },
+    {
+        "cry": "",
+        "name": "Laddy",
+        "num-leg": 4,
+        "race": "Labrador",
+        "sex": "F"
+    },
+    {
+        "cry": "",
+        "name": "Tasha",
+        "num-leg": 4,
+        "race": "Labrador",
+        "sex": "F"
+    },
+    {
+        "cry": "",
+        "name": "Rex",
+        "num-leg": 4,
+        "race": "Jack",
+        "sex": "M"
+    }
+]

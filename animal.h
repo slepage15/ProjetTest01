@@ -5,7 +5,7 @@
 
 class Animal
 {
-private:
+public:
 
     std::string m_Name = "";
     std::string m_RaceName = "";
@@ -43,27 +43,27 @@ public:
         return "L'animal fait un cri generique";
     }
 
-    std::string getName()
+    const std::string getName()
     {
         return m_Name;
     }
 
-    std::string getRaceName()
+    const std::string getRaceName()
     {
         return m_RaceName;
     }
 
-    unsigned short getNumberOfLeg()
+    const unsigned short getNumberOfLeg()
     {
         return m_NumberOfLeg;
     }
 
-    char getSex()
+    const char getSex()
     {
         return m_Sex;
     }
 
-    std::string getCry()
+    const std::string getCry()
     {
         return m_Cry;
     }

@@ -3,6 +3,7 @@
 #include<iostream>
 #include<string>
 #include"animal.h"
+#include"json.hpp"
 
 class Chien : public Animal
 {
@@ -25,6 +26,8 @@ public:
         setSex(sex);
         setNumberOfLeg(m_numLeg);
         setCry(m_Cry);
+
+        nlohmann::json toto;
     }
 
     std::string displayCry()
